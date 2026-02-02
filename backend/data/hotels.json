@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Palace Hotel",
+    "city": "Mumbai",
+    "price": 4500,
+    "rating": 4.6,
+    "roomsAvailable": 10
+  },
+  {
+    "id": 2,
+    "name": "Sea View Resort",
+    "city": "Goa",
+    "price": 6200,
+    "rating": 4.8,
+    "roomsAvailable": 5
+  },
+  {
+    "id": 3,
+    "name": "Hilltop Retreat",
+    "city": "Manali",
+    "price": 3800,
+    "rating": 4.4,
+    "roomsAvailable": 7
+  },
+  {
+    "id": 4,
+    "name": "Royal Heritage",
+    "city": "Jaipur",
+    "price": 5200,
+    "rating": 4.5,
+    "roomsAvailable": 6
+  },
+  {
+    "id": 5,
+    "name": "Lake View Residency",
+    "city": "Udaipur",
+    "price": 4800,
+    "rating": 4.7,
+    "roomsAvailable": 4
+  },
+  {
+    "id": 6,
+    "name": "City Central Inn",
+    "city": "Bangalore",
+    "price": 3000,
+    "rating": 4.1,
+    "roomsAvailable": 12
+  },
+  {
+    "id": 7,
+    "name": "Skyline Luxury Suites",
+    "city": "Delhi",
+    "price": 7000,
+    "rating": 4.9,
+    "roomsAvailable": 3
+  },
+  {
+    "id": 8,
+    "name": "Palm Breeze Hotel",
+    "city": "Chennai",
+    "price": 3500,
+    "rating": 4.2,
+    "roomsAvailable": 9
+  },
+  {
+    "id": 9,
+    "name": "Snow Peak Lodge",
+    "city": "Shimla",
+    "price": 4100,
+    "rating": 4.3,
+    "roomsAvailable": 6
+  },
+  {
+    "id": 10,
+    "name": "Desert Mirage Resort",
+    "city": "Jaisalmer",
+    "price": 5600,
+    "rating": 4.6,
+    "roomsAvailable": 5
+  },
+  {
+    "id": 11,
+    "name": "Green Valley Stay",
+    "city": "Coorg",
+    "price": 3900,
+    "rating": 4.4,
+    "roomsAvailable": 8
+  },
+  {
+    "id": 12,
+    "name": "Riverfront Comforts",
+    "city": "Ahmedabad",
+    "price": 2800,
+    "rating": 4.0,
+    "roomsAvailable": 14
+  },
+  {
+    "id": 13,
+    "name": "Urban Nest Hotel",
+    "city": "Pune",
+    "price": 3200,
+    "rating": 4.2,
+    "roomsAvailable": 11
+  },
+  {
+    "id": 14,
+    "name": "Blue Bay Residency",
+    "city": "Visakhapatnam",
+    "price": 3600,
+    "rating": 4.3,
+    "roomsAvailable": 7
+  },
+  {
+    "id": 15,
+    "name": "Mountain Crown Resort",
+    "city": "Darjeeling",
+    "price": 4400,
+    "rating": 4.5,
+    "roomsAvailable": 6
+  }
+]
